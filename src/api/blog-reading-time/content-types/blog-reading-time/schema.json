@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "blog_reading_times",
+  "info": {
+    "singularName": "blog-reading-time",
+    "pluralName": "blog-reading-times",
+    "displayName": "Blog Reading Time"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "readingTime": {
+      "type": "string"
+    }
+  }
+}

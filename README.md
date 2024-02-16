@@ -1,3 +1,29 @@
+# Quillquest
+
+Quillquest is built with [Strapi](https://docs.strapi.io)
+
+## Getting started
+
+You can set Quillquest up with the command-line interface or with Docker.
+
+### CLI
+
+#### Install dependencies:
+
+```
+npm install
+# or
+yarn install
+```
+
+#### Set up database
+
+Quillquest is using postgres by default. You need to set it up and configure it correctly to be able to run Quillquest.
+
+####
+
+### Docker
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
